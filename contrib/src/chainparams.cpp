@@ -165,8 +165,8 @@ public:
         pchMessageStart[2] = 0x16;
         pchMessageStart[3] = 0x19;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 16);
-        nDefaultPort = 38881;
-        nRPCPort = 38882;
+        nDefaultPort = 55432;
+        nRPCPort = 55431;
         strDataDir = "testnet";
 
         // Modify the testnet genesis block so the timestamp is valid for a later start.
