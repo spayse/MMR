@@ -2750,8 +2750,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16178 or testnet: 25714)</source>
-        <translation>&lt;port&gt; üzerinde bağlantıları dinle (varsayılan: 16178 veya testnet: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 55431 or testnet: 25714)</source>
+        <translation>&lt;port&gt; üzerinde bağlantıları dinle (varsayılan: 55431 veya testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>

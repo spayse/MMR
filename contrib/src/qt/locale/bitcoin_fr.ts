@@ -2735,8 +2735,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MMR Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16178 or testnet: 25714)</source>
-        <translation>Écouter les connexions sur le &lt;port&gt; (par défault: 16178 ou testnet: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 55431 or testnet: 25714)</source>
+        <translation>Écouter les connexions sur le &lt;port&gt; (par défault: 55431 ou testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>

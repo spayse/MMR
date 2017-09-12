@@ -2747,8 +2747,8 @@ alertnotify=echo %%s | mail -s &quot;MMR Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16178 or testnet: 25714)</source>
-        <translation>监听&lt;port&gt;端口的连接 (默认: 16178 测试网: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 55431 or testnet: 25714)</source>
+        <translation>监听&lt;port&gt;端口的连接 (默认: 55431 测试网: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>

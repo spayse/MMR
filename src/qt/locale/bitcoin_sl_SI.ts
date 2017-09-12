@@ -2733,8 +2733,8 @@ for example: alertnotify=echo %%s | mail -s &quot;MMR Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16178 or testnet: 25714)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 16178 ali testnet: 25714) </translation>
+        <source>Listen for connections on &lt;port&gt; (default: 55431 or testnet: 25714)</source>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 55431 ali testnet: 25714) </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2784,7 +2784,7 @@ for example: alertnotify=echo %%s | mail -s &quot;MMR Alert&quot; admin@foo.com
     <message>
         <location line="+62"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 16174 or testnet: 25715)</source>
-        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 16178 ali testnet: 25714) </translation>
+        <translation>Sprejmi povezave na &lt;port&gt; (privzeta vrata: 55431 ali testnet: 25714) </translation>
     </message>
     <message>
         <location line="-16"/>

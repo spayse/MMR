@@ -2749,8 +2749,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;MMR upozornenie&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 16178 or testnet: 25714)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 16178 alebo testovacia sieť: 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 55431 or testnet: 25714)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 55431 alebo testovacia sieť: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
